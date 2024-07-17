@@ -44,6 +44,10 @@ python main.py
 - `pallette.py`: Contains the `Pallete` class, which handles the paddle movement and behavior.
 - `scoreboard.py`: Contains the `Scoreboard` class, which handles the score display.
 
+## Example
+
+![1](https://github.com/user-attachments/assets/8a9630f0-de8d-454e-8201-da843fb11ccb)
+
 
 ## Acknowledgment
 
